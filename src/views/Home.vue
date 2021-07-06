@@ -1,5 +1,6 @@
 <template>
   <div>
+    测试
     <form>
       <input v-model="state2.obj.id" />
       <input v-model="state2.obj.name" />
